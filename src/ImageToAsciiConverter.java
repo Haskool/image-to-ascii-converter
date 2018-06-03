@@ -5,7 +5,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.PrintStream;
 
 class ImageToAsciiConverter {
@@ -69,8 +68,8 @@ class ImageToAsciiConverter {
 
     /*
     * This iterates through the image brightness
-    * It converts the brightness of two adjacent pixels to a char
-    * Returns char[][] to be outputted
+    * It converts the brightness of each pixel to a char
+    * Returns string to be outputted
     * */
     public static String convertImageToAscii(BufferedImage image){
         int h = image.getHeight();
