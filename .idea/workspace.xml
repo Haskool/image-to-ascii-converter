@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6840eadb-9e41-493f-b87e-14aab1ef8ff4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImageToAsciiConverter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ImageToAsciiConverter/ImageToAsciiConverter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ImageToAsciiConverter/ImageToAsciiConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ImageToAsciiConverter/Pair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ImageToAsciiConverter/grande.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ImageToAsciiConverter/lucyAndFriends (3).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageToAsciiConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/grande.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lucyAndFriends (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,14 +38,30 @@
         <entry file="file://$PROJECT_DIR$/output.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1039">
-              <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+              <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grande.jpg" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/grande.jpg">
-          <provider selected="true" editor-type-id="images" />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="Pair.java" pinned="false" current-in-tab="false">
@@ -87,6 +93,8 @@
         <option value="$PROJECT_DIR$/src/Pair.java" />
         <option value="$PROJECT_DIR$/output.txt" />
         <option value="$PROJECT_DIR$/src/ImageToAsciiConverter.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -111,6 +119,11 @@
             <path>
               <item name="ImageToAsciiConverter" type="b2602c69:ProjectViewProjectNode" />
               <item name="ImageToAsciiConverter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ImageToAsciiConverter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ImageToAsciiConverter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ImageToAsciiConverter" type="b2602c69:ProjectViewProjectNode" />
@@ -208,6 +221,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1973" y="-4" width="1867" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -275,10 +289,23 @@
     <entry file="file://$PROJECT_DIR$/ImageToAsciiConverter.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/grande.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/output.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1039">
-          <caret line="200" lean-forward="true" selection-start-line="200" selection-end-line="200" />
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -292,8 +319,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/grande.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
