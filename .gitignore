@@ -1,5 +1,5 @@
 /.idea
-/out
 *.iml
 *.txt
 *.xml
+out/
