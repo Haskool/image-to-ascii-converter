@@ -21,7 +21,7 @@ public class App {
                     try {
                         File f = fileChooser.getSelectedFile();
                         image = ImageIO.read(f);
-                        if (image == null) throw new InvalidFileException(f + " is not a valid image.");
+                        if (image == null) throw new InvalidFileException(f.getCanonicalPath() + " is not a valid image.");
                     } catch (InvalidFileException e) {
                         System.out.println("You must select a file of PNG or JPEG");
                         return;
@@ -30,7 +30,7 @@ public class App {
                         return;
                     }
 
-                    ImageToAsciiConverter converter = new ImageToAsciiConverter(image);
+                    ImageToAsciiConverter converter = new ImageToAsciiConverter();
                     final String ascii = converter.convertImageToAscii(image);
 
                     try {

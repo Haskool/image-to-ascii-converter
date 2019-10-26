@@ -5,7 +5,7 @@ class ImageToAsciiConverter {
 
     private final char[] greyValToChar;
 
-    public ImageToAsciiConverter(BufferedImage image){
+    public ImageToAsciiConverter(){
         greyValToChar = new char[256];
         int[][] ranges = new int[][]{
                 {0, 50}, {50, 70}, {70, 100}, {100, 130},
