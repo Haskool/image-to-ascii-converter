@@ -24,8 +24,6 @@ class ImageToAsciiConverter {
     public String convertImageToAscii(BufferedImage image){
         int h = image.getHeight();
         int w = image.getWidth();
-        System.out.println("H is: "+ h);
-        System.out.println("W is: "+ w);
         if(h > w){
             double k = h/w;
             w = 200;
