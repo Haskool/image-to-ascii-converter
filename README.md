@@ -1,5 +1,5 @@
 # image-to-ascii-converter
-Convert your lousy old PNGs and JPEGs into wonderful ASCII art!
+Converts PNG and JPEG files to ASCII art!
 
 ## Examples
 ![](examples/Morgan-Freeman.jpg) ![](examples/Morgan-Freeman-Ascii.png)
